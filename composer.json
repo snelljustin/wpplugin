@@ -1,0 +1,6 @@
+{
+    "name": "justin/wpplugin",
+    "description": "test composable plugin",
+    "type": "wordpress-plugin",
+    "require": {}
+}
