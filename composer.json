@@ -2,5 +2,8 @@
     "name": "justin/wpplugin",
     "description": "test composable plugin",
     "type": "wordpress-plugin",
-    "require": {}
+    "license": "proprietary",
+    "require": {
+        "composer/installers": "^1.0"
+    }
 }
